@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CountDownPage.qml</file>
+        <file>CountSetPage.qml</file>
+    </qresource>
+</RCC>
