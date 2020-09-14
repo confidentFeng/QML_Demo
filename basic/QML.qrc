@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>testKey.qml</file>
+    </qresource>
+</RCC>
